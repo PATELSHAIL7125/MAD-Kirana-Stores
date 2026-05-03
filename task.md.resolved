@@ -1,0 +1,28 @@
+# Smart Billing App - Task List
+
+- [ ] Project Setup <!-- id: 0 -->
+    - [ ] Create folder structure <!-- id: 1 -->
+    - [ ] define color palette and theme <!-- id: 2 -->
+    - [ ] Add necessary assets (if any, or placeholders) <!-- id: 3 -->
+- [ ] Reusable Components <!-- id: 4 -->
+    - [ ] Custom TextField (Rounded, padding) <!-- id: 5 -->
+    - [ ] Custom Primary Button <!-- id: 6 -->
+    - [ ] Custom Card Widget <!-- id: 7 -->
+- [ ] Authentication Screens <!-- id: 8 -->
+    - [ ] Splash Screen (Logo, Loader) <!-- id: 9 -->
+    - [ ] Login Screen (Mobile/Email, Password, Toggle visibility) <!-- id: 10 -->
+    - [ ] Registration / Shop Profile Setup Screen <!-- id: 11 -->
+- [ ] Core Screens <!-- id: 12 -->
+    - [ ] Dashboard / Home Screen (Grid/Card layout) <!-- id: 13 -->
+    - [ ] Profile & Settings Screen <!-- id: 14 -->
+- [ ] Inventory Management <!-- id: 15 -->
+    - [ ] Item Management Screen (List of items) <!-- id: 16 -->
+    - [ ] Add / Edit Item Screen <!-- id: 17 -->
+- [ ] Billing Module <!-- id: 18 -->
+    - [ ] Create Invoice / Billing Screen (Select items, quantity, total) <!-- id: 19 -->
+    - [ ] Invoice Preview Screen (Details, options to share/print) <!-- id: 20 -->
+    - [ ] UPI QR Payment Screen <!-- id: 21 -->
+    - [ ] Sales History Screen (Tabs, List of invoices) <!-- id: 22 -->
+- [ ] Navigation & Integration <!-- id: 23 -->
+    - [ ] Connect screens with Named Routes or GoRouter <!-- id: 24 -->
+    - [ ] Final UI Polish <!-- id: 25 -->

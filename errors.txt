@@ -1,0 +1,35 @@
+﻿Analyzing my_app...                                             
+
+  error - The named parameter 'italic' isn't defined - lib\core\services\receipt_service.dart:75:112 - undefined_named_parameter
+   info - The private field _isLoading could be 'final' - lib\features\billing\screens\billing_screen.dart:20:8 - prefer_final_fields
+warning - The value of the field '_isLoading' isn't used - lib\features\billing\screens\billing_screen.dart:20:8 - unused_field
+  error - Directives must appear before any declarations - lib\features\billing\screens\payment_screen.dart:24:1 - directive_after_declaration
+  error - Directives must appear before any declarations - lib\features\billing\screens\payment_screen.dart:25:1 - directive_after_declaration
+warning - Duplicate import - lib\features\billing\screens\payment_screen.dart:25:8 - duplicate_import
+   info - The local variable '_firestoreService' starts with an underscore - lib\features\billing\screens\sales_history_screen.dart:12:11 - no_leading_underscores_for_local_identifiers
+   info - The local variable '_authService' starts with an underscore - lib\features\billing\screens\sales_history_screen.dart:13:11 - no_leading_underscores_for_local_identifiers
+warning - Unused import: 'package:my_app/core/theme/app_theme.dart' - lib\features\business\screens\business_registration_screen.dart:2:8 - unused_import
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\dashboard\screens\dashboard_screen.dart:72:29 - use_build_context_synchronously
+  error - Too many positional arguments: 0 expected, but 1 found - lib\features\inventory\screens\item_list_screen.dart:80:11 - extra_positional_arguments_could_be_named
+   info - Unnecessary use of 'toList' in a spread - lib\features\reports\screens\reports_screen.dart:182:26 - unnecessary_to_list_in_spreads
+
+flutter : 12 issues 
+found. (ran in 10.5s)
+At line:1 char:1
++ flutter analyze 
+--no-pub 2>&1 | 
+Out-File -Encoding 
+utf8 errors.txt
++ ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~
+    + CategoryInfo   
+           : NotSpe  
+  cified: (12 issu   
+ es found. (ran i    
+n 10.5s):String)     
+[], RemoteExcep    
+tion
+    + FullyQualified 
+   ErrorId : Native  
+  CommandError
+ 

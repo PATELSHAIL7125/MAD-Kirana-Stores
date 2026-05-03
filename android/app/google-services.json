@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869953916567",
+    "project_id": "kirana-billing-app",
+    "storage_bucket": "kirana-billing-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869953916567:android:0853aafdbb4e03891d23d2",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaU_iRrhPhs0drJqZLACyqjm87ZFMQr3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
